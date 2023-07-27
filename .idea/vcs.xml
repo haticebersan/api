@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/test/java/base_urls" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/test/java/delete_requests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/test/java/get_requests" vcs="Git" />
+  </component>
+</project>
